@@ -11,6 +11,7 @@ import lombok.Setter;
 
 @Getter
 @Setter
+@AllArgsConstructor
 @NoArgsConstructor
 @Entity(name = "movies")
 public class Movie {
