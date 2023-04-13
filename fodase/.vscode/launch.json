@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-FodaseApplication<fodase>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.teste.fodase.fodase.FodaseApplication",
+      "projectName": "fodase",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
